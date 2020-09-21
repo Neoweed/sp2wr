@@ -1,0 +1,9 @@
+README.md
+setup.py
+sp2wr/__init__.py
+sp2wr/sp2wr.py
+sp2wr.egg-info/PKG-INFO
+sp2wr.egg-info/SOURCES.txt
+sp2wr.egg-info/dependency_links.txt
+sp2wr.egg-info/top_level.txt
+test/test_sp2wr.py

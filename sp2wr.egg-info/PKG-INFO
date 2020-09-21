@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: sp2wr
+Version: 0.1
+Summary: Convert Spoken English given as text to Written English 
+Home-page: UNKNOWN
+Author: Akhilank Kaipu
+Author-email: akhilank.kaipu@iiitb.org
+License: none
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Intended Audience :: Agnaitha
+Classifier: Programming Language :: Python
