@@ -1,0 +1,3 @@
+Akhilank
+
+Ans: What we can do in these types of cases is to automate the whole process of creating the package. We can use CI/CD concept from devops where we can continuously update without changing previous commits. In Jenkins for example, we can create a pipeline where we build,test and deploy. We can keep all the stages same but can just change the test stage for our requirements. We can for example add new tests for checking punctuation rules in the test stage and deploy again. This happens without any denial of service for the customers and can be done any number of times.
